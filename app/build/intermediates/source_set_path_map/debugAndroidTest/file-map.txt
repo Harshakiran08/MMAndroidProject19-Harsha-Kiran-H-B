@@ -1,0 +1,4 @@
+com.pashuaahar.test.app-androidTest-0 C:\Users\Harsha Kiran H B\.gemini\antigravity\playground\prograde-kepler\PA1\app\build\generated\res\resValues\androidTest\debug
+com.pashuaahar.test.app-mergeDebugAndroidTestResources-1 C:\Users\Harsha Kiran H B\.gemini\antigravity\playground\prograde-kepler\PA1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pashuaahar.test.app-mergeDebugAndroidTestResources-2 C:\Users\Harsha Kiran H B\.gemini\antigravity\playground\prograde-kepler\PA1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pashuaahar.test.app-merged_res-3 C:\Users\Harsha Kiran H B\.gemini\antigravity\playground\prograde-kepler\PA1\app\build\intermediates\merged_res\debugAndroidTest

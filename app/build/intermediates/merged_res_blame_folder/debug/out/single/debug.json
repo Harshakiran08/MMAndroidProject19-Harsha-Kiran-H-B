@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable-nodpi_app_logo.png.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable-nodpi/app_logo.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_pashu_launcher_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/pashu_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_pashu_launcher.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/pashu_launcher.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable-nodpi_logo.png.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable-nodpi/logo.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_pashu_launcher.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/pashu_launcher.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-anydpi-v26_pashu_launcher.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-anydpi-v26/pashu_launcher.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-anydpi-v26_pashu_launcher_round.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-anydpi-v26/pashu_launcher_round.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.pashuaahar.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_pashu_launcher.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/pashu_launcher.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_pashu_launcher_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/pashu_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable_desi_cow.png.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable/desi_cow.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_pashu_launcher_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/pashu_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_pashu_launcher.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/pashu_launcher.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable-nodpi_cow_bg.jpg.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable-nodpi/cow_bg.jpg"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable_jersey_cow.png.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable/jersey_cow.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_pashu_launcher.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/pashu_launcher.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/drawable_hf_cow.png.flat",
+        "source": "com.pashuaahar.app-main-6:/drawable/hf_cow.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxhdpi_pashu_launcher_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxhdpi/pashu_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pashuaahar.app-merged_res-4:/mipmap-mdpi_pashu_launcher_foreground.png.flat",
+        "source": "com.pashuaahar.app-main-6:/mipmap-mdpi/pashu_launcher_foreground.png"
+    }
+]
